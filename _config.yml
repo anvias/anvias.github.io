@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: anvias
-#email: simpolism@gmail.com
+email: nav.audio@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Old work thrust into the present.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -24,9 +24,14 @@ github_username:  anvias
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: ColeTownsend/Balzac-for-Jekyll
 plugins:
   - jekyll-feed
+
+# Balzac settings
+links:
+  - title: About
+    url: /about
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

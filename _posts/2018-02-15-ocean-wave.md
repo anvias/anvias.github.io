@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I haven't felt the ocean wave"
+title: "Ocean Wave"
 date: 2018-02-15
 category: blog
 tags: poetry

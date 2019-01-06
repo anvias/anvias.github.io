@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-... information coming soon ...
+An archive for works old and new.

@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/aigarsdz/brume
+  revision: f8c91879d5534b042a39f5c439ab4c3eeb460be7
+  specs:
+    brume (1.1.1)
+      jekyll (~> 3.4)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -245,6 +252,7 @@ PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
+  brume!
   github-pages
   jekyll-feed (~> 0.6)
   minima (~> 2.0)

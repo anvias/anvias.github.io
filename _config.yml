@@ -24,14 +24,12 @@ github_username:  anvias
 
 # Build settings
 markdown: kramdown
-remote_theme: ColeTownsend/Balzac-for-Jekyll
+kramdown:
+  input: GFM
+  hard_wrap: true
+remote_theme: aigarsdz/brume
 plugins:
   - jekyll-feed
-
-# Balzac settings
-links:
-  - title: About
-    url: /about
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

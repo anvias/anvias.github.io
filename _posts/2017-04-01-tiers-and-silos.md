@@ -1,7 +1,7 @@
---
+---
 layout: post
 title: "Tiers and Silos"
-date: 2017-07-01
+date: 2017-04-01
 category: blog
 tags: poetry
 ---

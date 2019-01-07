@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The spirit of death sits up on my cuff"
-date: 2018-07-27
+date: 2018-11-15
 category: blog
 tags: poetry
 ---

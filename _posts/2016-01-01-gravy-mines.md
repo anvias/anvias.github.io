@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "In the Gravy Mines of 39"
-date: 2015-12-20
+date: 2016-01-01
 category: blog
 tags: poetry
 ---

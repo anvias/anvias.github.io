@@ -15,7 +15,7 @@ He's seen it all before. He's half awake.
 A million rides and never one mistake:
 reliability's in short supply,
 so he's the train dispatcher's favorite guy,
-but then one misotry morning he did spake:
+but then one misty morning he did spake:
 why must I ride this up and down
 like Sisyphus upon his hill?
 I'd sooner drop the boulder round,
